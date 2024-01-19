@@ -150,6 +150,21 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="00774a45-78ee-4876-b0b3-65f3e3856421">
+    <name>НТЯ_КонтакноеЛицо</name>
+    <synonym>
+      <key>ru</key>
+      <value>Контакное лицо (Нетология)</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.НТЯ_КонтактныеЛица</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <forms uuid="89d2cf90-1b05-4f76-92ce-211dfad5c12d">
     <name>ФормаДокумента</name>
     <synonym>
